@@ -16,6 +16,9 @@ This project evaluates a mixed portfolio:
 - **Data Period**: 2020-01-01 to current (October 2025).
 
 ## Visualizations
+- Key Financial Indicators
+- Data fetched on: 2025-10-01 19:36:59
+<img width="1714" height="656" alt="Image" src="https://github.com/user-attachments/assets/302ca997-d9e3-410a-a3a5-c17474a123da" />
 
 Comparison of Stock Returns
 
